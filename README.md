@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbarfu
 - 👀 I’m interested in sound, software development and running
 - 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on Audio/DSP projects
+- 💞️ I’m looking to collaborate on Audio/DSP projects, preferably low level (C/C++/ASM) stuff
 - 📫 How to reach me: hannes.barfuss at gmail.com
